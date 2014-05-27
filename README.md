@@ -15,11 +15,11 @@ The following emojicons are available. They will be copied to your clipboard.
 * dance: ♪┏(・o･)┛♪┗ ( ･o･) ┓♪
 * table: (╯°□°）╯︵ ┻━┻
 * cry: (´༎ຶД༎ຶ`)
-* shrug: ¯\_(ツ)_/¯
+* shrug: ¯\\_(ツ)_/¯
 * double table: ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
 * koala: ʕ•ᴥ•ʔ
 * unflip: ┬─┬ノ( º _ ºノ)
-* zoidberg: (\) (°,,,°) (/)
+* zoidberg: (\\) (°,,,°) (/)
 * interrobang: ‽
 
 Text Transforms
