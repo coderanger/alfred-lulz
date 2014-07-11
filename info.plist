@@ -74,6 +74,17 @@
 				<string></string>
 			</dict>
 		</array>
+		<key>86A79970-5E6B-4AE8-BDFC-B461E0437873</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B68AC46F-910B-4BF9-8CFB-75BCA5E19D57</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
 		<key>8BEDC5F4-8617-4E9A-A694-954CCF201C64</key>
 		<array>
 			<dict>
@@ -101,6 +112,17 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>CED36E5A-3B72-4749-AE79-393C11D29B1E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>B68AC46F-910B-4BF9-8CFB-75BCA5E19D57</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A05764DF-8ABA-4427-A0AD-F89F8A12AE7A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -647,6 +669,67 @@ sys.stdout.write(input.encode('utf-8'))
 			<key>version</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>upside</string>
+				<key>subtext</key>
+				<string>sɹǝʇndɯoɔ</string>
+				<key>text</key>
+				<string>Flip text upside down</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>86A79970-5E6B-4AE8-BDFC-B461E0437873</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>A05764DF-8ABA-4427-A0AD-F89F8A12AE7A</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>64</integer>
+				<key>script</key>
+				<string>import sys, string
+input = u'{query}'
+inc = u"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!#$%&amp;'()*+,-./:;&lt;=&gt;?@[\\]^_`{|}~"
+outc = u"\u0250q\u0254p\u01dd\u025f\u0183\u0265\u1d09\u027e\u029el\u026fuodb\u0279s\u0287n\u028c\u028dx\u028ez\u2200q\u0186p\u018e\u2132\u05e4HI\u017f\u029e\u02e5WNO\u0500Q\u0279S\u2534\u2229\u039bMX\u2144Z0\u0196\u1105\u0190\u3123\u03db9\u312586\xa1#$%\u214b,)(*+'-\u02d9/:;&gt;=&lt;\xbf@]\\[^\u203e,}|{~"
+for a, b in zip(inc, outc):
+    input = input.replace(a, b)
+input.replace('"', ',,')
+sys.stdout.write(input[::-1].encode('utf-8'))
+</string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>B68AC46F-910B-4BF9-8CFB-75BCA5E19D57</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -722,6 +805,11 @@ sys.stdout.write(input.encode('utf-8'))
 			<key>ypos</key>
 			<real>210</real>
 		</dict>
+		<key>86A79970-5E6B-4AE8-BDFC-B461E0437873</key>
+		<dict>
+			<key>ypos</key>
+			<real>1210</real>
+		</dict>
 		<key>8BEDC5F4-8617-4E9A-A694-954CCF201C64</key>
 		<dict>
 			<key>ypos</key>
@@ -737,10 +825,20 @@ sys.stdout.write(input.encode('utf-8'))
 			<key>ypos</key>
 			<real>1010</real>
 		</dict>
+		<key>A05764DF-8ABA-4427-A0AD-F89F8A12AE7A</key>
+		<dict>
+			<key>ypos</key>
+			<real>1210</real>
+		</dict>
 		<key>ACF2427A-C60A-479D-BDF3-6439E2410B5D</key>
 		<dict>
 			<key>ypos</key>
 			<real>310</real>
+		</dict>
+		<key>B68AC46F-910B-4BF9-8CFB-75BCA5E19D57</key>
+		<dict>
+			<key>ypos</key>
+			<real>1210</real>
 		</dict>
 		<key>BF07FFE4-3D2F-47D8-8A0E-69D4EA6628AC</key>
 		<dict>
