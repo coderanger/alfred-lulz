@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>net.coderanger.lulz</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -882,6 +882,6 @@ sys.stdout.write(input[::-1].encode('utf-8'))
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/coderanger/alfred-lulz</string>
 </dict>
 </plist>
