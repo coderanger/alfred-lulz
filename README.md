@@ -30,6 +30,7 @@ be copied to your clipboard.
 
 * fullwidth: Ｆｕｌｌ－ｗｉｄｔｈ　ｔｅｘｔ
 * smallcaps: ꜱᴍᴀʟʟ ᴄᴀᴘꜱ ᴛᴇxᴛ
+* upside: ʇxǝʇ nʍod ǝdᴉsdn
 
 License
 -------
