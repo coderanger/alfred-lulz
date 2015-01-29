@@ -31,6 +31,8 @@ be copied to your clipboard.
 * fullwidth: Ｆｕｌｌ－ｗｉｄｔｈ　ｔｅｘｔ
 * smallcaps: ꜱᴍᴀʟʟ ᴄᴀᴘꜱ ᴛᴇxᴛ
 * upside: ʇxǝʇ nʍod ǝdᴉsdn
+* underline: u̲n̲d̲e̲r̲l̲i̲n̲e̲ ̲t̲e̲x̲t̲
+* strikethrough: s̶t̶r̶i̶k̶e̶t̶h̶r̶o̶u̶g̶h̶ ̶t̶e̶x̶t̶
 
 License
 -------
