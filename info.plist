@@ -74,6 +74,17 @@
 				<string></string>
 			</dict>
 		</array>
+		<key>5F20CC97-09C3-45B1-A69B-45BCD5530C5E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>21A5C388-957A-4E60-B64B-43811F98D365</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
 		<key>77190FB7-7D19-47B9-B2EA-1A6C1C5332A4</key>
 		<array>
 			<dict>
@@ -156,6 +167,17 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>A05764DF-8ABA-4427-A0AD-F89F8A12AE7A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>B9E4E79F-E51E-41DE-9515-505FDF2835C2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E86608D8-9B57-4E4B-830C-1E9CE4F1C833</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -617,6 +639,8 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
@@ -658,6 +682,8 @@ sys.stdout.write(u''.join([unichr(ord(c) + 65248) if c != ' ' else unichr(0x3000
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
@@ -716,6 +742,8 @@ sys.stdout.write(input.encode('utf-8'))
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
@@ -798,6 +826,8 @@ sys.stdout.write(input[::-1].encode('utf-8'))
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
@@ -840,6 +870,8 @@ sys.stdout.write(output.encode('utf-8'))
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
 				<key>escaping</key>
 				<integer>64</integer>
 				<key>script</key>
@@ -855,6 +887,76 @@ sys.stdout.write(output.encode('utf-8'))
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
 			<string>77190FB7-7D19-47B9-B2EA-1A6C1C5332A4</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>http://i.coderanger.net/thisisfine.png</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>21A5C388-957A-4E60-B64B-43811F98D365</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>thisisfine</string>
+				<key>subtext</key>
+				<string>I'm okay with events that are unfolding currently</string>
+				<key>text</key>
+				<string>This is fine</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>5F20CC97-09C3-45B1-A69B-45BCD5530C5E</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>http://i.coderanger.net/cathug.jpg</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>E86608D8-9B57-4E4B-830C-1E9CE4F1C833</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>cathug</string>
+				<key>text</key>
+				<string>Cat hug?</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>B9E4E79F-E51E-41DE-9515-505FDF2835C2</string>
 			<key>version</key>
 			<integer>0</integer>
 		</dict>
@@ -877,6 +979,11 @@ sys.stdout.write(output.encode('utf-8'))
 		<dict>
 			<key>ypos</key>
 			<real>1110</real>
+		</dict>
+		<key>21A5C388-957A-4E60-B64B-43811F98D365</key>
+		<dict>
+			<key>ypos</key>
+			<real>1510</real>
 		</dict>
 		<key>234FFBCF-824D-469E-B61D-D38ACAD2047B</key>
 		<dict>
@@ -922,6 +1029,11 @@ sys.stdout.write(output.encode('utf-8'))
 		<dict>
 			<key>ypos</key>
 			<real>210</real>
+		</dict>
+		<key>5F20CC97-09C3-45B1-A69B-45BCD5530C5E</key>
+		<dict>
+			<key>ypos</key>
+			<real>1510</real>
 		</dict>
 		<key>68048336-45DB-411F-AF3A-AD5BCD7E02B1</key>
 		<dict>
@@ -983,6 +1095,11 @@ sys.stdout.write(output.encode('utf-8'))
 			<key>ypos</key>
 			<real>1210</real>
 		</dict>
+		<key>B9E4E79F-E51E-41DE-9515-505FDF2835C2</key>
+		<dict>
+			<key>ypos</key>
+			<real>1610</real>
+		</dict>
 		<key>BF07FFE4-3D2F-47D8-8A0E-69D4EA6628AC</key>
 		<dict>
 			<key>ypos</key>
@@ -1022,6 +1139,11 @@ sys.stdout.write(output.encode('utf-8'))
 		<dict>
 			<key>ypos</key>
 			<real>110</real>
+		</dict>
+		<key>E86608D8-9B57-4E4B-830C-1E9CE4F1C833</key>
+		<dict>
+			<key>ypos</key>
+			<real>1610</real>
 		</dict>
 		<key>FEECC996-862B-421F-8B85-5417BCDE3907</key>
 		<dict>
