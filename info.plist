@@ -17,6 +17,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>234FFBCF-824D-469E-B61D-D38ACAD2047B</key>
@@ -28,6 +30,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>2741E4B3-7E0D-4EC6-9DE7-46E71D92BA8E</key>
@@ -39,6 +43,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</key>
@@ -50,6 +56,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>415A06DB-5318-4A14-A2A9-01E911F2430B</key>
@@ -61,6 +69,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>4E49BC0F-D412-468A-9050-CD5BBD7EC208</key>
@@ -72,6 +82,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>5F20CC97-09C3-45B1-A69B-45BCD5530C5E</key>
@@ -83,6 +95,21 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6155736D-F769-4F01-A111-BD0312B2BD85</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E9927E15-1FF3-4699-A28A-9D7F70FEDA14</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>77190FB7-7D19-47B9-B2EA-1A6C1C5332A4</key>
@@ -94,6 +121,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>7C5FFF23-1E48-4277-AC44-CE2F7782C596</key>
@@ -105,6 +134,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>86A79970-5E6B-4AE8-BDFC-B461E0437873</key>
@@ -116,6 +147,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>8BEDC5F4-8617-4E9A-A694-954CCF201C64</key>
@@ -127,6 +160,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>991FB07D-2F83-4DA2-88D0-CA0EE7DA6386</key>
@@ -138,6 +173,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>ACF2427A-C60A-479D-BDF3-6439E2410B5D</key>
@@ -149,6 +186,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>B3134A1A-1EE3-4020-9C7A-12E5E5F633E3</key>
@@ -160,6 +199,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>B68AC46F-910B-4BF9-8CFB-75BCA5E19D57</key>
@@ -171,6 +212,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>B9E4E79F-E51E-41DE-9515-505FDF2835C2</key>
@@ -182,6 +225,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>BF07FFE4-3D2F-47D8-8A0E-69D4EA6628AC</key>
@@ -193,6 +238,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>CF159AA7-D76E-4F4A-B669-5EEC7EAA922E</key>
@@ -204,6 +251,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>DED78D21-C5F4-4942-A791-2AC326E4E792</key>
@@ -215,6 +264,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E596EA7C-22E3-4A6B-84DB-7C9930A45AA9</key>
@@ -226,6 +277,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>E5BA6435-E776-4100-925E-0FAF9E00E02D</key>
@@ -237,6 +290,34 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E9927E15-1FF3-4699-A28A-9D7F70FEDA14</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>71F4D0E4-D371-4282-88B2-EA47599B7234</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F81809FD-84BA-45F6-A31E-0B5A46B70E1F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DADDD855-C1F3-4A5D-8A29-66878FC422C3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 		<key>FEECC996-862B-421F-8B85-5417BCDE3907</key>
@@ -248,6 +329,8 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
@@ -268,13 +351,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>ಠ_ಠ</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>CE161058-0308-438B-B756-380820F4AE0F</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -295,7 +380,7 @@
 			<key>uid</key>
 			<string>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -304,13 +389,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>♪┏(・o･)┛♪┗ ( ･o･) ┓♪</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>E6C115F0-CF8A-4DCD-9F9F-58A7C4A03BEC</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -331,7 +418,7 @@
 			<key>uid</key>
 			<string>E596EA7C-22E3-4A6B-84DB-7C9930A45AA9</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -352,7 +439,7 @@
 			<key>uid</key>
 			<string>7C5FFF23-1E48-4277-AC44-CE2F7782C596</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -361,13 +448,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>(╯°□°）╯︵ ┻━┻</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>5EBAF1B1-9B62-4C38-89F8-087D419877FB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -376,13 +465,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>(´༎ຶД༎ຶ`)</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>CED36E5A-3B72-4749-AE79-393C11D29B1E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -403,7 +494,7 @@
 			<key>uid</key>
 			<string>ACF2427A-C60A-479D-BDF3-6439E2410B5D</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -424,7 +515,7 @@
 			<key>uid</key>
 			<string>234FFBCF-824D-469E-B61D-D38ACAD2047B</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -433,13 +524,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>¯\_(ツ)_/¯</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>68048336-45DB-411F-AF3A-AD5BCD7E02B1</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -448,13 +541,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>6CA8240F-FB95-49D9-BDC3-A28CB6506121</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -475,7 +570,7 @@
 			<key>uid</key>
 			<string>FEECC996-862B-421F-8B85-5417BCDE3907</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -484,13 +579,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>ʕ•ᴥ•ʔ</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>4884492E-5924-4F39-80CA-81536BC089DB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -511,7 +608,7 @@
 			<key>uid</key>
 			<string>8BEDC5F4-8617-4E9A-A694-954CCF201C64</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -532,7 +629,7 @@
 			<key>uid</key>
 			<string>415A06DB-5318-4A14-A2A9-01E911F2430B</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -541,13 +638,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>┬─┬ノ( º _ ºノ)</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>302D1253-3EB2-46F8-B735-835F7C0F06E2</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -556,13 +655,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>(\) (°,,,°) (/)</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>1851354F-D60D-4E4B-95F9-B5C8703368AB</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -583,7 +684,7 @@
 			<key>uid</key>
 			<string>2741E4B3-7E0D-4EC6-9DE7-46E71D92BA8E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -604,7 +705,7 @@
 			<key>uid</key>
 			<string>0CA55F59-25FA-40C0-BECA-73B9F03F06F6</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -613,13 +714,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>‽</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>4706B985-4C13-4441-A781-AC82E833787E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -628,13 +731,15 @@
 				<false/>
 				<key>clipboardtext</key>
 				<string>{query}</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>9533DD9D-B2F0-4B32-8947-6FECD2762D30</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -648,6 +753,10 @@
 sys.stdout.write(u''.join([unichr(ord(c) + 65248) if c != ' ' else unichr(0x3000) if ord(c) &lt; 256 else c for c in '{query}']).encode('utf-8'))
 
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -656,7 +765,7 @@ sys.stdout.write(u''.join([unichr(ord(c) + 65248) if c != ' ' else unichr(0x3000
 			<key>uid</key>
 			<string>991FB07D-2F83-4DA2-88D0-CA0EE7DA6386</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -677,7 +786,7 @@ sys.stdout.write(u''.join([unichr(ord(c) + 65248) if c != ' ' else unichr(0x3000
 			<key>uid</key>
 			<string>E5BA6435-E776-4100-925E-0FAF9E00E02D</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -693,6 +802,10 @@ for a, b, c in zip(string.lowercase, string.uppercase, u'\u1d00\u0299\u1d04\u1d0
     input = input.replace(a, c).replace(b, c)
 sys.stdout.write(input.encode('utf-8'))
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -701,7 +814,7 @@ sys.stdout.write(input.encode('utf-8'))
 			<key>uid</key>
 			<string>BF07FFE4-3D2F-47D8-8A0E-69D4EA6628AC</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -722,7 +835,7 @@ sys.stdout.write(input.encode('utf-8'))
 			<key>uid</key>
 			<string>CF159AA7-D76E-4F4A-B669-5EEC7EAA922E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -731,13 +844,15 @@ sys.stdout.write(input.encode('utf-8'))
 				<false/>
 				<key>clipboardtext</key>
 				<string>{query}</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>19F64397-525C-47F4-AA09-0685802CC945</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -756,6 +871,10 @@ for a, b in zip(inc, outc):
 input.replace('"', ',,')
 sys.stdout.write(input[::-1].encode('utf-8'))
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -764,7 +883,7 @@ sys.stdout.write(input[::-1].encode('utf-8'))
 			<key>uid</key>
 			<string>B68AC46F-910B-4BF9-8CFB-75BCA5E19D57</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -785,7 +904,7 @@ sys.stdout.write(input[::-1].encode('utf-8'))
 			<key>uid</key>
 			<string>86A79970-5E6B-4AE8-BDFC-B461E0437873</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -794,13 +913,15 @@ sys.stdout.write(input[::-1].encode('utf-8'))
 				<false/>
 				<key>clipboardtext</key>
 				<string>{query}</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>A05764DF-8ABA-4427-A0AD-F89F8A12AE7A</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -821,7 +942,7 @@ sys.stdout.write(input[::-1].encode('utf-8'))
 			<key>uid</key>
 			<string>DED78D21-C5F4-4942-A791-2AC326E4E792</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -836,6 +957,10 @@ input = u'{query}'
 output = u''.join(c+u'\u0332' for c in input)
 sys.stdout.write(output.encode('utf-8'))
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -844,7 +969,7 @@ sys.stdout.write(output.encode('utf-8'))
 			<key>uid</key>
 			<string>4E49BC0F-D412-468A-9050-CD5BBD7EC208</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -865,7 +990,7 @@ sys.stdout.write(output.encode('utf-8'))
 			<key>uid</key>
 			<string>B3134A1A-1EE3-4020-9C7A-12E5E5F633E3</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -880,6 +1005,10 @@ input = u'{query}'
 output = u''.join(c+u'\u0336' for c in input)
 sys.stdout.write(output.encode('utf-8'))
 </string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>type</key>
 				<integer>3</integer>
 			</dict>
@@ -888,7 +1017,7 @@ sys.stdout.write(output.encode('utf-8'))
 			<key>uid</key>
 			<string>77190FB7-7D19-47B9-B2EA-1A6C1C5332A4</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -897,13 +1026,15 @@ sys.stdout.write(output.encode('utf-8'))
 				<false/>
 				<key>clipboardtext</key>
 				<string>http://i.coderanger.net/thisisfine.png</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>21A5C388-957A-4E60-B64B-43811F98D365</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -924,7 +1055,7 @@ sys.stdout.write(output.encode('utf-8'))
 			<key>uid</key>
 			<string>5F20CC97-09C3-45B1-A69B-45BCD5530C5E</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -933,13 +1064,15 @@ sys.stdout.write(output.encode('utf-8'))
 				<false/>
 				<key>clipboardtext</key>
 				<string>http://i.coderanger.net/cathug.jpg</string>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
 			<string>E86608D8-9B57-4E4B-830C-1E9CE4F1C833</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -948,6 +1081,8 @@ sys.stdout.write(output.encode('utf-8'))
 				<integer>2</integer>
 				<key>keyword</key>
 				<string>cathug</string>
+				<key>subtext</key>
+				<string></string>
 				<key>text</key>
 				<string>Cat hug?</string>
 				<key>withspace</key>
@@ -958,7 +1093,119 @@ sys.stdout.write(output.encode('utf-8'))
 			<key>uid</key>
 			<string>B9E4E79F-E51E-41DE-9515-505FDF2835C2</string>
 			<key>version</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>…</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>DADDD855-C1F3-4A5D-8A29-66878FC422C3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ellipsis</string>
+				<key>subtext</key>
+				<string>…</string>
+				<key>text</key>
+				<string>Ellipsis</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>F81809FD-84BA-45F6-A31E-0B5A46B70E1F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>glasnt</string>
+				<key>subtext</key>
+				<string>🇱​🇴​🇴​🇰​🇸​ ​🇱​🇮​🇰​🇪​ ​🇹​🇭​🇮​🇸</string>
+				<key>text</key>
+				<string>Enclosed bubble letters</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>6155736D-F769-4F01-A111-BD0312B2BD85</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import sys
+
+query = sys.argv[1]
+out = []
+
+for c in query:
+    if 'a' &lt;= c.lower() &lt;= 'z':
+        out.append('\xF0\x9F\x87')
+        out.append(chr(ord(c.lower()) + 69))
+    else:
+        out.append(c)
+    out.append('\xE2\x80\x8B')
+
+sys.stdout.write(''.join(out))</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E9927E15-1FF3-4699-A28A-9D7F70FEDA14</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>71F4D0E4-D371-4282-88B2-EA47599B7234</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -967,186 +1214,295 @@ sys.stdout.write(output.encode('utf-8'))
 	<dict>
 		<key>0CA55F59-25FA-40C0-BECA-73B9F03F06F6</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>910</real>
 		</dict>
 		<key>1851354F-D60D-4E4B-95F9-B5C8703368AB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>810</real>
 		</dict>
 		<key>19F64397-525C-47F4-AA09-0685802CC945</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1110</real>
 		</dict>
 		<key>21A5C388-957A-4E60-B64B-43811F98D365</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1510</real>
 		</dict>
 		<key>234FFBCF-824D-469E-B61D-D38ACAD2047B</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>410</real>
 		</dict>
 		<key>2741E4B3-7E0D-4EC6-9DE7-46E71D92BA8E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>810</real>
 		</dict>
 		<key>2C99F6F1-EF16-4CF1-9762-5D05A1FFAA4D</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>302D1253-3EB2-46F8-B735-835F7C0F06E2</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>710</real>
 		</dict>
 		<key>415A06DB-5318-4A14-A2A9-01E911F2430B</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>710</real>
 		</dict>
 		<key>4706B985-4C13-4441-A781-AC82E833787E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>910</real>
 		</dict>
 		<key>4884492E-5924-4F39-80CA-81536BC089DB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>610</real>
 		</dict>
 		<key>4E49BC0F-D412-468A-9050-CD5BBD7EC208</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1310</real>
 		</dict>
 		<key>5EBAF1B1-9B62-4C38-89F8-087D419877FB</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>210</real>
 		</dict>
 		<key>5F20CC97-09C3-45B1-A69B-45BCD5530C5E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1510</real>
 		</dict>
+		<key>6155736D-F769-4F01-A111-BD0312B2BD85</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<integer>1810</integer>
+		</dict>
 		<key>68048336-45DB-411F-AF3A-AD5BCD7E02B1</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>410</real>
 		</dict>
 		<key>6CA8240F-FB95-49D9-BDC3-A28CB6506121</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>510</real>
 		</dict>
+		<key>71F4D0E4-D371-4282-88B2-EA47599B7234</key>
+		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>1810</integer>
+		</dict>
 		<key>77190FB7-7D19-47B9-B2EA-1A6C1C5332A4</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1410</real>
 		</dict>
 		<key>7C5FFF23-1E48-4277-AC44-CE2F7782C596</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>210</real>
 		</dict>
 		<key>86A79970-5E6B-4AE8-BDFC-B461E0437873</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1210</real>
 		</dict>
 		<key>8BEDC5F4-8617-4E9A-A694-954CCF201C64</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>610</real>
 		</dict>
 		<key>9533DD9D-B2F0-4B32-8947-6FECD2762D30</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1010</real>
 		</dict>
 		<key>991FB07D-2F83-4DA2-88D0-CA0EE7DA6386</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1010</real>
 		</dict>
 		<key>A05764DF-8ABA-4427-A0AD-F89F8A12AE7A</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1210</real>
 		</dict>
 		<key>ACF2427A-C60A-479D-BDF3-6439E2410B5D</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>310</real>
 		</dict>
 		<key>B3134A1A-1EE3-4020-9C7A-12E5E5F633E3</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1410</real>
 		</dict>
 		<key>B68AC46F-910B-4BF9-8CFB-75BCA5E19D57</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1210</real>
 		</dict>
 		<key>B9E4E79F-E51E-41DE-9515-505FDF2835C2</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1610</real>
 		</dict>
 		<key>BF07FFE4-3D2F-47D8-8A0E-69D4EA6628AC</key>
 		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
 			<key>ypos</key>
 			<real>1110</real>
 		</dict>
 		<key>CE161058-0308-438B-B756-380820F4AE0F</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>10</real>
 		</dict>
 		<key>CED36E5A-3B72-4749-AE79-393C11D29B1E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>310</real>
 		</dict>
 		<key>CF159AA7-D76E-4F4A-B669-5EEC7EAA922E</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1110</real>
 		</dict>
+		<key>DADDD855-C1F3-4A5D-8A29-66878FC422C3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<real>1710</real>
+		</dict>
 		<key>DED78D21-C5F4-4942-A791-2AC326E4E792</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1310</real>
 		</dict>
 		<key>E596EA7C-22E3-4A6B-84DB-7C9930A45AA9</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>110</real>
 		</dict>
 		<key>E5BA6435-E776-4100-925E-0FAF9E00E02D</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>1010</real>
 		</dict>
 		<key>E6C115F0-CF8A-4DCD-9F9F-58A7C4A03BEC</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>110</real>
 		</dict>
 		<key>E86608D8-9B57-4E4B-830C-1E9CE4F1C833</key>
 		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
 			<key>ypos</key>
 			<real>1610</real>
 		</dict>
+		<key>E9927E15-1FF3-4699-A28A-9D7F70FEDA14</key>
+		<dict>
+			<key>xpos</key>
+			<integer>500</integer>
+			<key>ypos</key>
+			<integer>1810</integer>
+		</dict>
+		<key>F81809FD-84BA-45F6-A31E-0B5A46B70E1F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
+			<key>ypos</key>
+			<real>1710</real>
+		</dict>
 		<key>FEECC996-862B-421F-8B85-5417BCDE3907</key>
 		<dict>
+			<key>xpos</key>
+			<integer>300</integer>
 			<key>ypos</key>
 			<real>510</real>
 		</dict>
